@@ -1,0 +1,17 @@
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Business.deps.json
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Business.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Business.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Data.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Models.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Data.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net6.0\PazYSalvoAPP.Models.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.csproj.CopyComplete
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\PazYSalvoAPP.Business.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net6.0\ref\PazYSalvoAPP.Business.dll

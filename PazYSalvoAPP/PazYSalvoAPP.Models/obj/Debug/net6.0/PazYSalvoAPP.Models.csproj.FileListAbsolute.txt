@@ -1,0 +1,12 @@
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\bin\Debug\net6.0\PazYSalvoAPP.Models.deps.json
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\bin\Debug\net6.0\PazYSalvoAPP.Models.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\bin\Debug\net6.0\PazYSalvoAPP.Models.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.csproj.AssemblyReference.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.AssemblyInfoInputs.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.AssemblyInfo.cs
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.csproj.CoreCompileInputs.cache
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\refint\PazYSalvoAPP.Models.dll
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\PazYSalvoAPP.Models.pdb
+C:\Users\isa bedoya\Documents\GitHub\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Models\obj\Debug\net6.0\ref\PazYSalvoAPP.Models.dll

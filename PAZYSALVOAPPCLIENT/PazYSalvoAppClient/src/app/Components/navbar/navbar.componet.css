@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #68217a, #8a2bc2);
+    color: whitesmoke;
+    padding: 1rem;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.btnLoguin{
+    color: whitesmoke;
+    border: none;
+    background: transparent;
+}
+.btnLoguin:hover{
+    cursor: pointer;
+}

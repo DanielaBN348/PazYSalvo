@@ -1,0 +1,22 @@
+not-sidenav-container{
+    height: 90vh;
+    margin: 1rem;
+    width: 25%;
+    background: linear-gradient(to right, #68217a, #8a2bc2);
+    border-radius: 4px;
+    color: whitesmoke;
+    padding: 1rem;
+}
+.menu-options{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.menu-options button{
+    color: whitesmoke;
+    border: none;
+    background: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
